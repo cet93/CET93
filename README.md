@@ -1,2 +1,2 @@
 # CET93
-Técnico/Especialista em Cibersegurança
+Técnico/a Especialista em Cibersegurança
